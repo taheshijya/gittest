@@ -1,0 +1,5 @@
+cd D:\git\gittest
+
+git init
+
+

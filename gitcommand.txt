@@ -31,6 +31,6 @@ git remote add origin https://github.com/taheshijya/gittest.git
 # -u optionをつけてpushと同時にorigin mainに関連付け　以降からpush時はgit pushのみでOK
 git push -u origin main
 
-
-
+# カレントがmainのときdev→mainにマージ
+git merge dev
 

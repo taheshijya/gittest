@@ -2,7 +2,7 @@
 https://www.sejuku.net/blog/5816
 
 
-cd D:\git\gittest
+cd D:\work\gittest\gittest
 
 git init
 
